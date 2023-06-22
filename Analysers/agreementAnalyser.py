@@ -1,4 +1,4 @@
-import legal
+import Legal_Analyser
 import os
 
 dir_path = r'.\agreements'
@@ -23,5 +23,5 @@ for filepath in files:
                 clause = i
                 clausecontent = ""
     content = " ".join(clauses.values())
-    print(legal.generate_points(content))
+    print(Legal_Analyser.generate_points(content))
     #print(points)
