@@ -35,6 +35,7 @@ This project was developed during the Hack 4 Mysore Hackathon, hosted by MIT, My
 - Team Number - 204
 - Team Name - pushtoliveprodserver
 - Team Members - [Ayush Jain](https://github.com/ayushjain01), [Dhatvik MP](https://github.com/dhatvik), and [Lava Kumar Gowda MA](https://github.com/nameisluv)
+- Track - AI/ML
 
 [Click Here to View the Presentation](https://www.canva.com/design/DAFmk2JEN1E/SP0TyLLwuu92un7621Dk2g/edit)
 
