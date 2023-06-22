@@ -1,0 +1,70 @@
+######################### Hero Area ##############################
+hero_area:
+  background_image : "/assets/images/bg/banner-2.png"
+  title : "Advanced Text Analysis and Anomaly Detection system:"
+  content : "A powerful suite of tools for text analysis, enabling you to extract key information, perform sentiment analysis, and detect anomalies within text documents."
+  image : "/assets/images/banner/banner-img-2.png"
+  button:
+    enable : true
+    label : "Get Started"
+    link : "#services"
+
+########################### Service ##############################
+services:
+- title : "Movie Spoiler Detection"
+  icon : "ti-video-clapper"
+  content : "Uncover spoilers in movie plots rated on a scale of 1-10 based on their level of spoiler-y content."
+
+- title : "Legal Document Analyzer"
+  icon : "ti-book"
+  content : "Identify crucial points in lengthy legal documents, prioritized on an importance scale, ensuring you don't overlook critical details before signing.
+"
+
+- title : "News Summarizer"
+  icon : "ti-file"
+  content : "Receive concise and accurate news summaries from extensive articles, eliminating the risk of missing out on relevant information."
+
+
+########################### Testimonial ###########################
+testimonial:
+  enable : true
+  title : "clients feedback"
+  subtitle : "testimonials"
+  bg_image : "/assets/images/bg/testimonial-bg.png"
+  item:
+  - name : "Liam Hughes"
+    designation : "Manager"
+    image : "/assets/images/team/test-1.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+    
+  - name : "Jane Austin"
+    designation : "Designer"
+    image : "/assets/images/team/test-2.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+    
+  - name : "Liolane hussy"
+    designation : "Developer"
+    image : "/assets/images/team/test-3.jpg"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+
+
+######################## Fun facts ########################
+funfacts:
+  enable : true
+  bg_image : "/assets/images/bg/cta-bg.png"
+  item:
+  - name : "work completed"
+    icon : "ti-briefcase"
+    value : "370"
+    
+  - name : "new projects"
+    icon : "ti-paint-bucket"
+    value : "450"
+    
+  - name : "Happy customers"
+    icon : "ti-heart"
+    value : "5000"
+    
+  - name : "awards win"
+    icon : "ti-cup"
+    value : "37"
