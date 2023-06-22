@@ -1,0 +1,18 @@
+<!-- Service Start -->
+<section class="service-2" id="services">
+	<div class="container">
+		<div class="row justify-content-center">
+			{% for service in site.data.homepage_1.services %}
+			<div class="col-lg-4 col-md-6 {% unless forloop.last %}border-right{% endunless %}">
+				<div class="service-item mb-4 mb-lg-0 text-center px-4">
+					<a href="#{{ service.title }}"><i class="{{ service.icon }} text-color icon-md"></i>
+					<h4 class="my-4" style="height: 4rem;">{{ service.title }}</h4>
+					<p>{{ service.content }}</p></a>
+				</div>
+			</div>
+			{% endfor %}
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Service End -->
