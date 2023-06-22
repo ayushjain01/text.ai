@@ -1,0 +1,7 @@
+spacy
+transformers
+sklearn
+nltk
+selenium
+requests
+beautifulsoup4
