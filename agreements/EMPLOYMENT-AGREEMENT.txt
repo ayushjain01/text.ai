@@ -1,0 +1,55 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement (the "Agreement") is entered into between Cognisent, an IT company located in Bangalore, India, with its principal place of business at [Company Address] (hereinafter referred to as the "Company"), and Ramesh, residing at yeshwanthpur (hereinafter referred to as the "Employee"). This Agreement is effective as of 1st june 2020.
+
+1. Employment Position and Duties
+
+1.1 The Company agrees to employ Ramesh as a Software Developer, and Ramesh agrees to accept such employment.
+
+1.2 Ramesh's primary duties and responsibilities shall include, but not be limited to, developing and maintaining software applications, participating in project planning and execution, and collaborating with the team to meet project objectives.
+
+2. Compensation and Benefits
+
+2.1 Ramesh will receive a base salary of 50 thousand per month, subject to applicable taxes and withholdings. The salary will be payable on a monthly basis, starting from 1 july 2020.
+
+2.2 Ramesh shall be entitled to participate in the employee benefits provided by the Company, including but not limited to health insurance, retirement plans, and any other benefits offered to employees in similar positions.
+
+3. Confidentiality and Intellectual Property
+
+3.1 Ramesh acknowledges that during the course of employment, he may have access to confidential and proprietary information of the Company, including trade secrets, customer information, and business strategies.
+
+3.2 Ramesh agrees to maintain the confidentiality of all such information and not to disclose it to any unauthorized parties during or after employment, except as required in the performance of his duties or with the explicit written consent of the Company.
+
+3.3 Ramesh acknowledges that any inventions, developments, software code, or other intellectual property created or discovered by him during the course of employment and related to the Company's business shall be the exclusive property of the Company.
+
+4. Non-Competition and Non-Solicitation
+
+4.1 During the term of employment and for a period of 2 years following the termination of employment, Ramesh agrees not to engage in any employment, consulting, or business activities that directly compete with the Company's business or interests without prior written consent from the Company.
+
+4.2 Ramesh further agrees not to solicit or hire any employees, contractors, or clients of the Company for a period of 2 years  following the termination of employment, without the prior written consent of the Company.
+
+5. Termination
+
+5.1 Either party may terminate this Agreement at any time for any reason, subject to any notice period specified in applicable laws or any additional provisions set forth in this Agreement.
+
+5.2 In the event of termination, Ramesh shall be entitled to any accrued but unpaid salary up to the date of termination, as well as any applicable benefits or compensation as per the Company's policies.
+
+6. Governing Law and Jurisdiction
+
+6.1 This Agreement shall be governed by and construed in accordance with the laws of India. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts in Bangalore, India.
+
+7. Entire Agreement
+
+7.1 This Agreement constitutes the entire agreement between the parties and supersedes all prior discussions, negotiations, and agreements, whether oral or written, relating to the subject matter hereof.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Employment Agreement as of the Effective Date.
+
+Cognisent
+By: _________
+[Authorized Signatory]
+
+Ramesh
+By: _________
+[Employee Signature]
+
+Date: 1st june 2020

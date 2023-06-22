@@ -1,0 +1,54 @@
+Insurance Agreement
+
+This Insurance Agreement ("Agreement") is made and entered into between Vinay, hereinafter referred to as the "Insured," and LIC Insurance Company, a company duly registered and operating under the laws of India, having its principal place of business located in Bangalore, hereinafter referred to as the "Insurer."
+
+1. Policy Details:
+
+1.1 Policy Number:RD16006540123
+1.2 Policy Type: Life Insurance
+1.3 Insured Name: Vinay
+1.4 Age: 23
+
+2. Coverage:
+
+2.1 The Insurer agrees to provide life insurance coverage to the Insured, subject to the terms and conditions stated in this Agreement.
+
+3. Premium:
+
+3.1 The Insured agrees to pay a premium of 1000 rupees per month, payable on the 2nd of each month, for the duration of this Agreement.
+
+4. Policy Term:
+
+4.1 The Policy Term shall commence on the effective date of this Agreement and shall continue until the termination of the policy as per the terms and conditions outlined below.
+
+5. Termination:
+
+5.1 The Insured has the right to terminate this Agreement by providing written notice to the Insurer. The termination will be effective as of the next premium due date following receipt of the notice by the Insurer.
+
+5.2 The Insurer reserves the right to terminate this Agreement for non-payment of premiums. In such cases, the termination will be effective 30 days after the premium due date for which payment was not received.
+
+5.3 The Insurer may terminate this Agreement in the event of fraud or misrepresentation by the Insured. Termination in such cases shall be effective immediately upon notice to the Insured.
+
+6. Claims:
+
+6.1 In the event of the Insured's demise during the policy term, the Insurer shall pay the designated beneficiary, as specified by the Insured, the applicable sum assured as mentioned in the policy document.
+
+7. Policy Document:
+
+7.1 The Insured acknowledges having received and reviewed the policy document, which contains the complete terms, conditions, and exclusions of this insurance policy. The Insured agrees to be bound by the provisions stated in the policy document.
+
+8. Governing Law:
+
+8.1 This Agreement shall be governed by and construed in accordance with the laws of India. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts in Bangalore.
+
+9. Entire Agreement:
+
+9.1 This Agreement constitutes the entire understanding between the Insured and the Insurer and supersedes any prior agreements or understandings, whether written or oral, relating to the subject matter herein.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Insurance Agreement as of the date first written below.
+
+Insured:                                             Insurer:
+Name: Vinay                                         LIC Insurance Company
+Age: 23                                             
+Signature: ______            Signature: ______
+Date: ______                        Date: ______
